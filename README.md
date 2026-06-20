@@ -9,7 +9,7 @@ license: "mit"
 short_description: "Automated claim auditing engine utilizing Llama 3.3, Groq LPU acceleration, and precision-grounded compliance guardrails."
 ---
 
-# 🕵️‍♂️ ClaimLens AI: Next-Generation Multi-Modal Claims Ingestion & Compliance Studio
+# 🕵️‍♂️ ClaimLens AI: <br> Next-Generation Multi-Modal Claims Ingestion & Compliance Studio
 
 > **"Enforcing Structural Integrity, Eliminating Hallucinatory Overrides, Automating Enterprise Compliance Management."**
 > 
