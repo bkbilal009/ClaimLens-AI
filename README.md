@@ -9,7 +9,7 @@ license: "mit"
 short_description: "Automated claim auditing engine utilizing Llama 3.3, Groq LPU acceleration, and precision-grounded compliance guardrails."
 ---
 
-# 🕵️‍♂️ ClaimLens AI: <br> Next-Generation Multi-Modal Claims Ingestion & Compliance Studio
+# 🕵️‍♂️ ClaimLens AI: Next-Generation Multi-Modal Claims Ingestion & Compliance Studio
 
 > **"Enforcing Structural Integrity, Eliminating Hallucinatory Overrides, Automating Enterprise Compliance Management."**
 > 
@@ -25,12 +25,11 @@ short_description: "Automated claim auditing engine utilizing Llama 3.3, Groq LP
 ## 🔗 Quick Access & Collaborative Profiles
 
 ### 🚀 Live Interactive Production Deployments (Hugging Face)
-* **🎯 Module 1: Individual Live Assessment:** [🚀 Launch Space](https://huggingface.co/spaces/your-username/ClaimLens-Live) — Deep Pink Glassmorphism Strategic Reasoning Bot.
-* **📊 Module 2: Bulk Ledger Batch Execution:** [🚀 Launch Space](https://huggingface.co/spaces/your-username/ClaimLens-Batch) — Real-Time Production Compliance Matrix Engine.
+* **🎯 Module Live Studio:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/ClaimLens-AI) — Deep Pink Glassmorphism Strategic Reasoning Node & Batch Compliance Matrix Engine.
 
 ### 👥 The Core Engineering & Technical Leadership
 * 🛠️ **Lead AI Developer & Technical Leader:** Computer Science Specialist based in Pakistan (1st-Year Student at Government Degree College No. 2, Dera Ismail Khan / University Phase Competitor). Energetic developer with 35+ RAG and Multi-Agent projects executed, maintaining a strict 144+ problem LeetCode / 60-Day DSA pattern streak.  
-  👉 **[GitHub Portfolio](https://github.com/) | [LinkedIn Profile](https://www.linkedin.com/)**
+  👉 **[GitHub Portfolio](https://github.com/bkbilal09) | [LinkedIn Profile](https://www.linkedin.com/in/muhammad-bilal-dev/)**
 
 ---
 
